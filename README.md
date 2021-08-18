@@ -1,1 +1,1 @@
-# My_Small_Project
+# Small_Project
